@@ -8,3 +8,6 @@ In order to manually install this extension, please complete the following steps
 2. Once copied, navigate to GNOME Extensions, enable the Extension, and enjoy!
 
 **N.B.** If I get time, I will attempt to implement keyboard shortcuts on this extensions just like f.lux on Windows. All credits are reserved for kiyui for creating such an awesome extension for the Linux master race to use!
+
+![Screenshot on Ubuntu 22.10](/screenshot-in-use.png "Screenshot on Ubuntu 22.10")
+
